@@ -1,0 +1,11 @@
+{
+  "name": "progress-tracker",
+  "version": "1.0.0",
+  "description": "This is basic progress tracker in js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
